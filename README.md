@@ -1,6 +1,6 @@
 # Windyeal's Blog
 
-*power by [HUXPRO](https://huangxuan.me)
+*power by [HUXPRO](https://huangxuan.me)*
 ================================
 
 > I never expected this to become popular.
