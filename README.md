@@ -1,11 +1,9 @@
 # Windyeal's Blog
 
-*power by [HUXPRO](https://huangxuan.me)*
 ================================
 
-> I never expected this to become popular.
+> *power by [HUXPRO](https://huangxuan.me)*
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
