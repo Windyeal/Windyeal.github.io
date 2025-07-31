@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "如何通俗地解释停机问题？"
+title: "「转载」关于停机问题"
 subtitle: "How to explain the Halting Problem?"
 author: "Hux"
 header-img: "img/post-bg-halting.jpg"
 header-mask: 0.3
 tags:
-  - 知乎
+  - 转载
   - 计算理论
 ---
 
-> 这篇文章转载自[我在知乎上的回答]( https://www.zhihu.com/question/20081359/answer/275107187)
+> 转载自[知乎]( https://www.zhihu.com/question/20081359/answer/275107187)
 
 我用 Python 伪代码来解释下，我觉得对这个问题有兴趣的应该都是有点编程基础的，所以直接上 code 应该是最容易的。
 
