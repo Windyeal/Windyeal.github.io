@@ -7,6 +7,7 @@ header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
   - 转载
+  - Linux
 ---
 
 > This document is not completed and will be updated anytime.
