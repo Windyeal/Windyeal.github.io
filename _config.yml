@@ -12,7 +12,7 @@ baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 future: true
 
 # SNS settings
-##RSS: false
+RSS: false
 ##weibo_username: huxpro
 ##zhihu_username: huxpro
 github_username: windyeal
@@ -62,14 +62,14 @@ kramdown:
 disqus_username: windyeal
 
 # Netease settings
-netease_comment: false
+netease_comment: true
 
 # Analytics settings
 # Baidu Analytics
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+##ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
 ##ga_domain: huangxuan.me
 
 # Sidebar settings
@@ -78,7 +78,7 @@ sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ 
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
-featured-tags: false # whether or not using Feature-Tags
+featured-tags: true # whether or not using Feature-Tags
 featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
