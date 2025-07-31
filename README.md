@@ -7,6 +7,30 @@
 ## 个人博客建站练手项目 | 顺带记录学习笔记
 
 
+POSTS 示例
+
+```
+---
+layout:     post
+title:      "大标题"
+subtitle:   "标题简介"
+#subtitle:   "🎞  Slides:Service Worker 101, Working Offline and Instant Loading (GDG DevFest 2016 Beijing)"
+iframe:     "//huangxuan.me/sw-101-gdgdf/"
+navcolor:   "invert"
+date:       2025-7-30
+author:     "Windyeal"
+header-style: text
+header-img: "img/post-bg-dreamer.jpg"
+header-mask: 0.4
+catalog: true
+published: false
+
+tags:
+    - 示例1
+    - 示例2
+---
+```
+
 Other Resources
 ---------------
 
