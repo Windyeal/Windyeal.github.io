@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "如何证明不可计算的函数比可计算的函数多？"
+title: "「转载」如何证明不可计算的函数比可计算的函数多？"
 subtitle: "Why is there more uncomputable functions?"
 author: "Hux"
 header-img: "img/post-bg-infinity.jpg"
 header-mask: 0.3
 mathjax: true
 tags:
-  - 知乎
+  - 转载
   - 计算理论
 ---
 
-> 这篇文章转载自[我在知乎上的回答](https://www.zhihu.com/question/51508063/answer/275401076)
+> 转载自[知乎](https://www.zhihu.com/question/51508063/answer/275401076)
 
 严谨的证明的话，可以使用「形式语言」（[Formal language](https://en.wikipedia.org/wiki/Formal_language)）来证明：
 
