@@ -24,16 +24,27 @@ tags:
 ## 参数说明
 
 **VminVmax**：填入Vmm的扫描方式，默认为MostSearch，可选MostSearch、BoundarySearch。
+
 **Vcoef**：填入扫描的level spec name，默认为Vcoef。
+
 **SpecType**：选择扫描点的计算方式RelativeMode、AbsoluteMode、RelativeCoefMode， 默认为RelativeMode。
+
 **Vcoef_End**：填入扫描的终止点，默认为1.2。
+
 **Vcoef_Start**：填入扫描的起始点，默认为0.6。
+
 **V_points**：填入初次扫描时需要扫描的点数，默认为11。
+
 **V_detail_points**：填入细扫时需要扫描的点数，默认为11，如果初次扫描没有边界点则不会细扫。
+
 **Vclamp_EN**：选择ON或OFF,默认为ON，使用Vclamp时选择为ON，否则选择OFF。
+
 **Output**：选择log输出模式，默认为File+ReportUI，可选File、ReportUI、File+ReportUI、None。
+
 **PowerMonitor**：选择ON或OFF，默认为OFF，使用PowerMonitor功能时选择ON，否则选择OFF。
+
 **PreExecute**：选择ON或OFF，默认为OFF，使用PreExecute功能时选择ON，否则选择OFF。
+
 **LogFile**：填入log文件的路径和文件名，默认为“report/hidigitallink_log”。
 
 ## 参数解释
